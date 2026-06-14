@@ -81,37 +81,81 @@ PlayerController.cs
 
 PauseManager.cs
 
-GlitchPlatform.cs
+CheckpointManager.cs
+
+GlitchMaterialization.cs
 
 ---
 
-### Prefabs
+### Assets Visuais
 
-PF_Player
+Utilizar os identificadores definidos no Documento de Assets.
 
-PF_GlitchPlatform
+Exemplos:
 
-PF_Checkpoint
+CHAR_001_NEX
 
----
+CHAR_002_NULL
 
-### Sprites
+BG_001_Inicializacao
 
-SPR_Player_Idle
+PLAT_001_PlataformaComum
 
-SPR_Player_Run
+OBS_001_Espinhos
 
-SPR_Platform_Default
+OBS_002_Laser
 
 ---
 
 ### Áudios
 
-MUS_MainTheme
+Utilizar os identificadores definidos no Documento de Áudio.
 
-SFX_Jump
+Exemplos:
 
-SFX_Glitch
+MUS_001_MenuPrincipal
+
+MUS_002_Fase1
+
+SFX_001_Pulo
+
+SFX_006_GlitchMaterializacao
+
+---
+
+### Prefabs
+
+Utilizar o identificador da categoria correspondente.
+
+Exemplos:
+
+PF_CHAR_001_NEX
+
+PF_OBS_001_Espinhos
+
+PF_PLAT_002_PlataformaAzul
+
+PF_PLAT_003_PlataformaVermelha
+
+PF_COL_001_FramentoMemoria
+
+---
+
+### Cenas
+
+Utilizar PascalCase.
+
+Exemplos:
+
+MainMenu
+
+Level_01
+
+Level_02
+
+CreditsScene
+
+TestScene
 
 ---
 
