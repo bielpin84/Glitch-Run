@@ -183,8 +183,94 @@ Corrigir colisão da fase 01
 
 ## Status Atual
 
-Estrutura inicial do projeto criada.
+### Infraestrutura
 
-Repositório configurado.
+* Projeto Unity configurado.
+* Repositório GitHub configurado e operacional.
+* Git LFS habilitado.
+* Estrutura de pastas definida.
+* Documentação principal integrada ao projeto.
+* Build Profiles configurados.
 
-Projeto pronto para início do desenvolvimento.
+---
+
+### Sistema de Input
+
+O projeto utiliza o sistema:
+
+Input System Package (New)
+
+Entradas centralizadas através de:
+
+* InputSystem_Actions.inputactions
+* InputReader.cs
+
+Não utilizar:
+
+* Input.GetAxisRaw()
+* Input.GetButtonDown()
+* Input.GetKeyDown()
+
+Novas entradas devem ser implementadas através do Input System.
+
+---
+
+### Sistemas Implementados e Validados
+
+* Movimento do jogador.
+* Sistema de salto.
+* Coyote Time.
+* Jump Buffer.
+* Checkpoints.
+* Respawn.
+* Death Zones.
+* Glitch de Materialização.
+* Sistema de Pause.
+* Camera Follow.
+
+Todos os sistemas acima foram testados e encontram-se funcionais na TestScene.
+
+---
+
+### Prefabs Disponíveis
+
+* PF_Player
+* PF_Checkpoint
+* PF_DeathZone
+* PF_PLAT_001_Blue
+* PF_PLAT_002_Red
+
+Os prefabs devem ser reutilizados na construção das fases sempre que possível.
+
+---
+
+### Cena de Testes
+
+A cena TestScene é utilizada para validação técnica e prototipação de sistemas.
+
+Novas mecânicas devem ser testadas primeiro na TestScene antes de serem integradas às fases jogáveis.
+
+---
+
+## Organização da Hierarchy (TestScene)
+
+Estrutura atualmente utilizada:
+
+Main Camera
+
+Managers
+* InputReader
+* PauseManager
+* MaterializationManager
+
+Player
+* GroundCheck
+
+Environment
+* Ground
+* Checkpoint_01
+* DeathZone
+* BluePlatform
+* RedPlatform
+
+Esta organização deve ser mantida como referência para futuras cenas de teste.
