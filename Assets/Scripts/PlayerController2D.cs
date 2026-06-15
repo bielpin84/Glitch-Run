@@ -47,7 +47,7 @@ public class PlayerController2D : MonoBehaviour
             return;
         }
 
-        horizontalInput = Input.GetAxisRaw("Horizontal");
+        horizontalInput = InputReader.Instance.MoveInput.x;
         UpdateJumpTimers();
         UpdateState();
     }
@@ -90,7 +90,7 @@ public class PlayerController2D : MonoBehaviour
             coyoteCounter -= Time.deltaTime;
         }
 
-        if (Input.GetButtonDown("Jump"))
+        if (InputReader.Instance.JumpPressed)
         {
             jumpBufferCounter = jumpBufferTime;
         }

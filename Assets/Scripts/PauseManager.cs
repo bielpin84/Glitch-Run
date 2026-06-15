@@ -10,7 +10,7 @@ public class PauseManager : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (InputReader.Instance.PausePressed)
         {
             SetPaused(!isPaused);
         }

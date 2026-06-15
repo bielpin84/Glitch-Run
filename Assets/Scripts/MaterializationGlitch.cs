@@ -14,7 +14,7 @@ public class MaterializationGlitch : MonoBehaviour
 
     private void Update()
     {
-        if (!PauseManager.IsPaused && Input.GetKeyDown(KeyCode.Q))
+        if (!PauseManager.IsPaused && InputReader.Instance.MaterializePressed)
         {
             Toggle();
         }

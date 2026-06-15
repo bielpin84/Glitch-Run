@@ -20,7 +20,7 @@ public class TemporalGlitch : MonoBehaviour
             cooldownTimer -= Time.deltaTime;
         }
 
-        if (!PauseManager.IsPaused && Input.GetKeyDown(KeyCode.E) && cooldownTimer <= 0f && !isActive)
+        if (!PauseManager.IsPaused && InputReader.Instance.TemporalPressed && cooldownTimer <= 0f && !isActive)
         {
             StartCoroutine(FreezeRoutine());
         }
