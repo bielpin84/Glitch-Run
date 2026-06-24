@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: d486280eb39ddc44f81f084e35e39a8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7520332366286814855
+    second: Back_fase4_0
+  - first:
+      213: 9132474281194544612
+    second: Back_fase4_1
+  - first:
+      213: 825385947381937317
+    second: Back_fase4_2
+  - first:
+      213: -6178019664422688159
+    second: Back_fase4_3
+  - first:
+      213: -1806252449553907161
+    second: Back_fase4_4
+  - first:
+      213: 7710508733302839733
+    second: Back_fase4_5
+  - first:
+      213: 7244370305129770627
+    second: Back_fase4_6
+  - first:
+      213: -7319827687221064771
+    second: Back_fase4_7
+  - first:
+      213: -8301931208922383924
+    second: Back_fase4_8
+  - first:
+      213: 820677289507017579
+    second: Back_fase4_9
+  - first:
+      213: 5936412739682108355
+    second: Back_fase4_10
+  - first:
+      213: 3109187708948122782
+    second: Back_fase4_11
+  - first:
+      213: 1011631226069585591
+    second: Back_fase4_12
+  - first:
+      213: 7506380920055466907
+    second: Back_fase4_13
+  - first:
+      213: 272491151382323353
+    second: Back_fase4_14
+  - first:
+      213: -1612610267453622494
+    second: Back_fase4_15
+  - first:
+      213: -7953085421389993297
+    second: Back_fase4_16
+  - first:
+      213: 503114276029077928
+    second: Back_fase4_17
+  - first:
+      213: -2849919085231413572
+    second: Back_fase4_18
+  - first:
+      213: 1505519515813157056
+    second: Back_fase4_19
+  - first:
+      213: -4201756274260388884
+    second: Back_fase4_20
+  - first:
+      213: -7954335221873729634
+    second: Back_fase4_21
+  - first:
+      213: -7967154099093116188
+    second: Back_fase4_22
+  - first:
+      213: 4634306922377323166
+    second: Back_fase4_23
+  - first:
+      213: 3616533457606187139
+    second: Back_fase4_24
+  - first:
+      213: 682012715925887577
+    second: Back_fase4_25
+  - first:
+      213: -9222261656176530069
+    second: Back_fase4_26
+  - first:
+      213: 1853429020531874654
+    second: Back_fase4_27
+  - first:
+      213: -494570319481480917
+    second: Back_fase4_28
+  - first:
+      213: 1626979503078232916
+    second: Back_fase4_29
+  - first:
+      213: -1283673013522107719
+    second: Back_fase4_30
+  - first:
+      213: -7087134965539321643
+    second: Back_fase4_31
+  - first:
+      213: -6844865427312561254
+    second: Back_fase4_32
+  - first:
+      213: -6483539002089406558
+    second: Back_fase4_33
+  - first:
+      213: -5749736782397857946
+    second: Back_fase4_34
+  - first:
+      213: -9210369087089181959
+    second: Back_fase4_35
+  - first:
+      213: -1260308058665083573
+    second: Back_fase4_36
+  - first:
+      213: -1115599122919931118
+    second: Back_fase4_37
+  - first:
+      213: 7392808678581679841
+    second: Back_fase4_38
+  - first:
+      213: 247189816975740739
+    second: Back_fase4_39
+  - first:
+      213: -110935897461663408
+    second: Back_fase4_40
+  - first:
+      213: 7319113007335748887
+    second: Back_fase4_41
+  - first:
+      213: -7359836511827250059
+    second: Back_fase4_42
+  - first:
+      213: -482615500557752191
+    second: Back_fase4_43
+  - first:
+      213: -1806077046061364026
+    second: Back_fase4_44
+  - first:
+      213: -592299054726333624
+    second: Back_fase4_45
+  - first:
+      213: 2582771033561919726
+    second: Back_fase4_46
+  - first:
+      213: -497893788619072351
+    second: Back_fase4_47
+  - first:
+      213: 710576885444486731
+    second: Back_fase4_48
+  - first:
+      213: -4428166839393062959
+    second: Back_fase4_49
+  - first:
+      213: -3110565397403479101
+    second: Back_fase4_50
+  - first:
+      213: 5731507306038207497
+    second: Back_fase4_51
+  - first:
+      213: -5290105912762769957
+    second: Back_fase4_52
+  - first:
+      213: 5192356372597901484
+    second: Back_fase4_53
+  - first:
+      213: 4844290982955505932
+    second: Back_fase4_54
+  - first:
+      213: 7180241193590276681
+    second: Back_fase4_55
+  - first:
+      213: 7387227591660793706
+    second: Back_fase4_56
+  - first:
+      213: 4213120217580439213
+    second: Back_fase4_57
+  - first:
+      213: 7634086240305376769
+    second: Back_fase4_58
+  - first:
+      213: 5221783254557095447
+    second: Back_fase4_59
+  - first:
+      213: 7280957728413838255
+    second: Back_fase4_60
+  - first:
+      213: 5932347043199661108
+    second: Back_fase4_61
+  - first:
+      213: -2408005514620140565
+    second: Back_fase4_62
+  - first:
+      213: -1687642725835014284
+    second: Back_fase4_63
+  - first:
+      213: 4919824237049262130
+    second: Back_fase4_64
+  - first:
+      213: -4412791557039161487
+    second: Back_fase4_65
+  - first:
+      213: -2260594453937558649
+    second: Back_fase4_66
+  - first:
+      213: -5828889094282788750
+    second: Back_fase4_67
+  - first:
+      213: -4222387131079232429
+    second: Back_fase4_68
+  - first:
+      213: -5914471218164239394
+    second: Back_fase4_69
+  - first:
+      213: -7530538667490577132
+    second: Back_fase4_70
+  - first:
+      213: -6910276228989412588
+    second: Back_fase4_71
+  - first:
+      213: 5187425624318498725
+    second: Back_fase4_72
+  - first:
+      213: -4168948446018827625
+    second: Back_fase4_73
+  - first:
+      213: 4156151561764470147
+    second: Back_fase4_74
+  - first:
+      213: 2345852952587882113
+    second: Back_fase4_75
+  - first:
+      213: -6660679169133662904
+    second: Back_fase4_76
+  - first:
+      213: -1030681602579407201
+    second: Back_fase4_77
+  - first:
+      213: -6567915415990146137
+    second: Back_fase4_78
+  - first:
+      213: -5956337430371448447
+    second: Back_fase4_79
+  - first:
+      213: 6288192204191353980
+    second: Back_fase4_80
+  - first:
+      213: -3696342733712049211
+    second: Back_fase4_81
+  - first:
+      213: -5694291574698491010
+    second: Back_fase4_82
+  - first:
+      213: -7588844391012289004
+    second: Back_fase4_83
+  - first:
+      213: -3172392378417907700
+    second: Back_fase4_84
+  - first:
+      213: 4716856564236851449
+    second: Back_fase4_85
+  - first:
+      213: 8226566582078948313
+    second: Back_fase4_86
+  - first:
+      213: 7806619596274529170
+    second: Back_fase4_87
+  - first:
+      213: 6642574559824812848
+    second: Back_fase4_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back_fase4_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 757
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9710a9aae8962a790800000000000000
+      internalID: -7520332366286814855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 687
+        width: 165
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edddfa09f01dbe70800000000000000
+      internalID: 9132474281194544612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 754
+        width: 151
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4bc44652c547b00800000000000000
+      internalID: 825385947381937317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 791
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a25b609d3434aa0800000000000000
+      internalID: -6178019664422688159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_4
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 601
+        width: 270
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72209a197f6eee6e0800000000000000
+      internalID: -1806252449553907161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_5
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 550
+        width: 100
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9101647da310b60800000000000000
+      internalID: 7710508733302839733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_6
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 657
+        width: 108
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ee5a2096c298460800000000000000
+      internalID: 7244370305129770627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_7
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 593
+        width: 529
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb8e16208fba6a90800000000000000
+      internalID: -7319827687221064771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 655
+        width: 187
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b37e0d8d99cc80800000000000000
+      internalID: -8301931208922383924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 702
+        width: 129
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63db4c85a1a36b00800000000000000
+      internalID: 820677289507017579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 405
+        width: 190
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c30bdc2fef526250800000000000000
+      internalID: 5936412739682108355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 584
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c0dd38fbd062b20800000000000000
+      internalID: 3109187708948122782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 592
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be02918d390a0e00800000000000000
+      internalID: 1011631226069585591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 592
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b0da02da50c2860800000000000000
+      internalID: 7506380920055466907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_14
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 544
+        width: 139
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990a49a224518c300800000000000000
+      internalID: 272491151382323353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 415
+        width: 162
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2277747718bde99e0800000000000000
+      internalID: -1612610267453622494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 521
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa26bd42f6f0a190800000000000000
+      internalID: -7953085421389993297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 564
+        width: 91
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a91428b4cb6bf600800000000000000
+      internalID: 503114276029077928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_18
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 559
+        width: 102
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6ec2601bd0378d0800000000000000
+      internalID: -2849919085231413572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 570
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c81676e50ea4e410800000000000000
+      internalID: 1505519515813157056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_20
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 555
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3d0ff2eec50b5c0800000000000000
+      internalID: -4201756274260388884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_21
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 347
+        width: 95
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f96d372468c9190800000000000000
+      internalID: -7954335221873729634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_22
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 342
+        width: 530
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eae1c40f8bfe6190800000000000000
+      internalID: -7967154099093116188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_23
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 524
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e922f60a79d505040800000000000000
+      internalID: 4634306922377323166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 556
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3889eeab402803230800000000000000
+      internalID: 3616533457606187139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 528
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95adf01a3fef67900800000000000000
+      internalID: 682012715925887577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_26
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 553
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d64e5a2e1f30080800000000000000
+      internalID: -9222261656176530069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_27
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 557
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd331dfd3b8b910800000000000000
+      internalID: 1853429020531874654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_28
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 558
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29dade2aeee229f0800000000000000
+      internalID: -494570319481480917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_29
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 533
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453d1d9ec31349610800000000000000
+      internalID: 1626979503078232916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 541
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b27245023a7f2ee0800000000000000
+      internalID: -1283673013522107719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_31
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 535
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d847cf4c4075ad90800000000000000
+      internalID: -7087134965539321643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_32
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 534
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93bea5d8272201a0800000000000000
+      internalID: -6844865427312561254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_33
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 517
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aff11df0a7d506a0800000000000000
+      internalID: -6483539002089406558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_34
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 518
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f9d2d1cd4d430b0800000000000000
+      internalID: -5749736782397857946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_35
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 524
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa7fc92d123e2080800000000000000
+      internalID: -9210369087089181959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 450
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d94bf7f7c728ee0800000000000000
+      internalID: -1260308058665083573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 509
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ce9622889480f0800000000000000
+      internalID: -1115599122919931118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_38
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 514
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6394b0358889660800000000000000
+      internalID: 7392808678581679841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_39
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 507
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fcee034d13e6300800000000000000
+      internalID: 247189816975740739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_40
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 500
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05955f69360e57ef0800000000000000
+      internalID: -110935897461663408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_41
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 455
+        width: 128
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71530397086b29560800000000000000
+      internalID: 7319113007335748887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_42
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 491
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5743693cfab9cd990800000000000000
+      internalID: -7359836511827250059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_43
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 501
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188682e52c76d49f0800000000000000
+      internalID: -482615500557752191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_44
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 490
+        width: 71
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc8680ee768fe6e0800000000000000
+      internalID: -1806077046061364026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_45
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 503
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bbc3ad52bb7c7f0800000000000000
+      internalID: -592299054726333624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_46
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 487
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee070a72298d7d320800000000000000
+      internalID: 2582771033561919726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_47
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 487
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac9c79bc302719f0800000000000000
+      internalID: -497893788619072351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_48
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 487
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46a58a99e97cd900800000000000000
+      internalID: 710576885444486731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_49
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 490
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfefc398bdfb82c0800000000000000
+      internalID: -4428166839393062959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_50
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 445
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3d425604d05d4d0800000000000000
+      internalID: -3110565397403479101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_51
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 463
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a6fb27876a8f40800000000000000
+      internalID: 5731507306038207497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_52
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 427
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddd49553b4c596b0800000000000000
+      internalID: -5290105912762769957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_53
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 267
+        width: 352
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca80fef4c94fe0840800000000000000
+      internalID: 5192356372597901484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_54
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09d0bb9bf06a3340800000000000000
+      internalID: 4844290982955505932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_55
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 427
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9424391b25755a360800000000000000
+      internalID: 7180241193590276681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_56
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 409
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fe7ebfa54b48660800000000000000
+      internalID: 7387227591660793706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_57
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 370
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da606ec0482087a30800000000000000
+      internalID: 4213120217580439213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_58
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 417
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e691a0df8b1f960800000000000000
+      internalID: 7634086240305376769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_59
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 397
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71675fd2430877840800000000000000
+      internalID: 5221783254557095447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_60
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 400
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabedb25a782b0560800000000000000
+      internalID: 7280957728413838255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_61
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 373
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4343142743ee35250800000000000000
+      internalID: 5932347043199661108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 53
+        width: 378
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be382eb1ebb059ed0800000000000000
+      internalID: -2408005514620140565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_63
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 363
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff4d2e1e94498e0800000000000000
+      internalID: -1687642725835014284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_64
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230bda6c31ab64440800000000000000
+      internalID: 4919824237049262130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_65
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 373
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f76d6757d92c2c0800000000000000
+      internalID: -4412791557039161487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_66
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 357
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b65df3251c0a0e0800000000000000
+      internalID: -2260594453937558649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_67
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 351
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27040246040ab1fa0800000000000000
+      internalID: -5828889094282788750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_68
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 314
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35477d386411765c0800000000000000
+      internalID: -4222387131079232429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_69
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 314
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed37c0763c39beda0800000000000000
+      internalID: -5914471218164239394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_70
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41571ecfaf62e7790800000000000000
+      internalID: -7530538667490577132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 223
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b9247c164c910a0800000000000000
+      internalID: -6910276228989412588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_72
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 55
+        width: 175
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a753440f107df740800000000000000
+      internalID: 5187425624318498725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_73
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 256
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a8124f97be426c0800000000000000
+      internalID: -4168948446018827625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_74
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 136
+        width: 18
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38df7af33dd9da930800000000000000
+      internalID: 4156151561764470147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_75
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 123
+        width: 43
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e4d4ed4d42e8020800000000000000
+      internalID: 2345852952587882113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_76
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 56
+        width: 234
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84da1f0e5938093a0800000000000000
+      internalID: -6660679169133662904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_77
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 100
+        width: 530
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e59b11b8842b1f0800000000000000
+      internalID: -1030681602579407201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_78
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 259
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab681b3ab31ad4a0800000000000000
+      internalID: -6567915415990146137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_79
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 180
+        width: 19
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189c8544aa6d65da0800000000000000
+      internalID: -5956337430371448447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_80
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 149
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cc4325e75244750800000000000000
+      internalID: 6288192204191353980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_81
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 56
+        width: 216
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3ff42ed3f3bcc0800000000000000
+      internalID: -3696342733712049211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_82
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 136
+        width: 11
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73c8928bffc9f0b0800000000000000
+      internalID: -5694291574698491010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_83
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 135
+        width: 11
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4163ff9db320fa690800000000000000
+      internalID: -7588844391012289004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_84
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 95
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c087e3c90f569f3d0800000000000000
+      internalID: -3172392378417907700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_85
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 80
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f89ecfdd04a57140800000000000000
+      internalID: 4716856564236851449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_86
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 53
+        width: 239
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d34aed58b2aa2270800000000000000
+      internalID: 8226566582078948313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_87
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 56
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293fb8c592fa65c60800000000000000
+      internalID: 7806619596274529170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_fase4_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 56
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b97684e5a2f2c50800000000000000
+      internalID: 6642574559824812848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb96dd6eceba49e44b2461d338a300c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Back_fase4_0: -7520332366286814855
+      Back_fase4_1: 9132474281194544612
+      Back_fase4_10: 5936412739682108355
+      Back_fase4_11: 3109187708948122782
+      Back_fase4_12: 1011631226069585591
+      Back_fase4_13: 7506380920055466907
+      Back_fase4_14: 272491151382323353
+      Back_fase4_15: -1612610267453622494
+      Back_fase4_16: -7953085421389993297
+      Back_fase4_17: 503114276029077928
+      Back_fase4_18: -2849919085231413572
+      Back_fase4_19: 1505519515813157056
+      Back_fase4_2: 825385947381937317
+      Back_fase4_20: -4201756274260388884
+      Back_fase4_21: -7954335221873729634
+      Back_fase4_22: -7967154099093116188
+      Back_fase4_23: 4634306922377323166
+      Back_fase4_24: 3616533457606187139
+      Back_fase4_25: 682012715925887577
+      Back_fase4_26: -9222261656176530069
+      Back_fase4_27: 1853429020531874654
+      Back_fase4_28: -494570319481480917
+      Back_fase4_29: 1626979503078232916
+      Back_fase4_3: -6178019664422688159
+      Back_fase4_30: -1283673013522107719
+      Back_fase4_31: -7087134965539321643
+      Back_fase4_32: -6844865427312561254
+      Back_fase4_33: -6483539002089406558
+      Back_fase4_34: -5749736782397857946
+      Back_fase4_35: -9210369087089181959
+      Back_fase4_36: -1260308058665083573
+      Back_fase4_37: -1115599122919931118
+      Back_fase4_38: 7392808678581679841
+      Back_fase4_39: 247189816975740739
+      Back_fase4_4: -1806252449553907161
+      Back_fase4_40: -110935897461663408
+      Back_fase4_41: 7319113007335748887
+      Back_fase4_42: -7359836511827250059
+      Back_fase4_43: -482615500557752191
+      Back_fase4_44: -1806077046061364026
+      Back_fase4_45: -592299054726333624
+      Back_fase4_46: 2582771033561919726
+      Back_fase4_47: -497893788619072351
+      Back_fase4_48: 710576885444486731
+      Back_fase4_49: -4428166839393062959
+      Back_fase4_5: 7710508733302839733
+      Back_fase4_50: -3110565397403479101
+      Back_fase4_51: 5731507306038207497
+      Back_fase4_52: -5290105912762769957
+      Back_fase4_53: 5192356372597901484
+      Back_fase4_54: 4844290982955505932
+      Back_fase4_55: 7180241193590276681
+      Back_fase4_56: 7387227591660793706
+      Back_fase4_57: 4213120217580439213
+      Back_fase4_58: 7634086240305376769
+      Back_fase4_59: 5221783254557095447
+      Back_fase4_6: 7244370305129770627
+      Back_fase4_60: 7280957728413838255
+      Back_fase4_61: 5932347043199661108
+      Back_fase4_62: -2408005514620140565
+      Back_fase4_63: -1687642725835014284
+      Back_fase4_64: 4919824237049262130
+      Back_fase4_65: -4412791557039161487
+      Back_fase4_66: -2260594453937558649
+      Back_fase4_67: -5828889094282788750
+      Back_fase4_68: -4222387131079232429
+      Back_fase4_69: -5914471218164239394
+      Back_fase4_7: -7319827687221064771
+      Back_fase4_70: -7530538667490577132
+      Back_fase4_71: -6910276228989412588
+      Back_fase4_72: 5187425624318498725
+      Back_fase4_73: -4168948446018827625
+      Back_fase4_74: 4156151561764470147
+      Back_fase4_75: 2345852952587882113
+      Back_fase4_76: -6660679169133662904
+      Back_fase4_77: -1030681602579407201
+      Back_fase4_78: -6567915415990146137
+      Back_fase4_79: -5956337430371448447
+      Back_fase4_8: -8301931208922383924
+      Back_fase4_80: 6288192204191353980
+      Back_fase4_81: -3696342733712049211
+      Back_fase4_82: -5694291574698491010
+      Back_fase4_83: -7588844391012289004
+      Back_fase4_84: -3172392378417907700
+      Back_fase4_85: 4716856564236851449
+      Back_fase4_86: 8226566582078948313
+      Back_fase4_87: 7806619596274529170
+      Back_fase4_88: 6642574559824812848
+      Back_fase4_9: 820677289507017579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

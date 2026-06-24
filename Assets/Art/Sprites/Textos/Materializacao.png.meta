@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: ee8657bb72ea44a4d857ea8abe175006
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7771185008742852601
+    second: Materializacao_0
+  - first:
+      213: -7476856110653709812
+    second: Materializacao_1
+  - first:
+      213: -9213362944611821137
+    second: Materializacao_2
+  - first:
+      213: 4619697372501207727
+    second: Materializacao_3
+  - first:
+      213: 6242942942095639797
+    second: Materializacao_4
+  - first:
+      213: -5497415087677794452
+    second: Materializacao_5
+  - first:
+      213: 3492215348571364432
+    second: Materializacao_6
+  - first:
+      213: 8455358008512659916
+    second: Materializacao_7
+  - first:
+      213: -7902604767070231058
+    second: Materializacao_8
+  - first:
+      213: -1101616736208829843
+    second: Materializacao_9
+  - first:
+      213: -7060555479697769
+    second: Materializacao_10
+  - first:
+      213: -1547237550791578502
+    second: Materializacao_11
+  - first:
+      213: 680287359667002023
+    second: Materializacao_12
+  - first:
+      213: 4534442228602300869
+    second: Materializacao_13
+  - first:
+      213: -5265079052344225359
+    second: Materializacao_14
+  - first:
+      213: -7574857597209551654
+    second: Materializacao_15
+  - first:
+      213: 5557925590943655193
+    second: Materializacao_16
+  - first:
+      213: -839300305225567367
+    second: Materializacao_17
+  - first:
+      213: -7964594219781174563
+    second: Materializacao_18
+  - first:
+      213: -6746813198084970257
+    second: Materializacao_19
+  - first:
+      213: 1831316823887989041
+    second: Materializacao_20
+  - first:
+      213: 4614934558882015620
+    second: Materializacao_21
+  - first:
+      213: -3163773665328486309
+    second: Materializacao_22
+  - first:
+      213: -1686064246184880619
+    second: Materializacao_23
+  - first:
+      213: 5726837294357098415
+    second: Materializacao_24
+  - first:
+      213: -4213599262685299760
+    second: Materializacao_25
+  - first:
+      213: 2675005551178119366
+    second: Materializacao_26
+  - first:
+      213: -6628520343209863468
+    second: Materializacao_27
+  - first:
+      213: -1189132191981706278
+    second: Materializacao_28
+  - first:
+      213: 6536283581646226887
+    second: Materializacao_29
+  - first:
+      213: 8571877395573356370
+    second: Materializacao_30
+  - first:
+      213: 4580790875400956002
+    second: Materializacao_31
+  - first:
+      213: -7789546974261735311
+    second: Materializacao_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Materializacao_0
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 687
+        width: 380
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7089a067864372490800000000000000
+      internalID: -7771185008742852601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_1
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 701
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02e6cf3bfedc3890800000000000000
+      internalID: -7476856110653709812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_2
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 701
+        width: 163
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa95aa3673f832080800000000000000
+      internalID: -9213362944611821137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 503
+        width: 324
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa6db9b8467c1040800000000000000
+      internalID: 4619697372501207727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 517
+        width: 143
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f484a0878363a650800000000000000
+      internalID: 6242942942095639797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_5
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 504
+        width: 439
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c679714ba1245b3b0800000000000000
+      internalID: -5497415087677794452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_6
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 577
+        width: 184
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c53c26b57d67030800000000000000
+      internalID: 3492215348571364432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_7
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 577
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c6227f47775570800000000000000
+      internalID: 8455358008512659916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_8
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 577
+        width: 167
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5687a85de445290800000000000000
+      internalID: -7902604767070231058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_9
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 500
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c5af3a6546b0f0800000000000000
+      internalID: -1101616736208829843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 442
+        width: 329
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79637b2567ae6eff0800000000000000
+      internalID: -7060555479697769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 442
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2ce925ab178ae0800000000000000
+      internalID: -1547237550791578502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_12
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 430
+        width: 356
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad322dfbdd07900800000000000000
+      internalID: 680287359667002023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_13
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 468
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9ee52be239dee30800000000000000
+      internalID: 4534442228602300869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_14
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 437
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b11caa5f7eaee6b0800000000000000
+      internalID: -5265079052344225359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_15
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 368
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcd72e0623b0e690800000000000000
+      internalID: -7574857597209551654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 412
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915ef38b0e7b12d40800000000000000
+      internalID: 5557925590943655193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 394
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9733727b1d43a54f0800000000000000
+      internalID: -839300305225567367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 403
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda40dd51c3187190800000000000000
+      internalID: -7964594219781174563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 415
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe86a3a74218e52a0800000000000000
+      internalID: -6746813198084970257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 401
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1394a07d2f42a6910800000000000000
+      internalID: 1831316823887989041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 349
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48926d3c78a8b0040800000000000000
+      internalID: 4614934558882015620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 360
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b582c502d940814d0800000000000000
+      internalID: -3163773665328486309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 343
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d9a15085e998e0800000000000000
+      internalID: -1686064246184880619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_24
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 360
+        width: 278
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2d985d20d97f40800000000000000
+      internalID: 5726837294357098415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_25
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 343
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7bc19bc94685c0800000000000000
+      internalID: -4213599262685299760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c87b2240678f1520800000000000000
+      internalID: 2675005551178119366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 397
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d696840ed3c204a0800000000000000
+      internalID: -6628520343209863468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_28
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 383
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3e2f9529a5f7fe0800000000000000
+      internalID: -1189132191981706278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_29
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 360
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5cd3b694b85ba50800000000000000
+      internalID: 6536283581646226887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 368
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257b955531d65f670800000000000000
+      internalID: 8571877395573356370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_31
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 345
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268ef96f70d329f30800000000000000
+      internalID: 4580790875400956002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materializacao_32
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 293
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17019e53c48f5e390800000000000000
+      internalID: -7789546974261735311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Materializacao_0: -7771185008742852601
+      Materializacao_1: -7476856110653709812
+      Materializacao_10: -7060555479697769
+      Materializacao_11: -1547237550791578502
+      Materializacao_12: 680287359667002023
+      Materializacao_13: 4534442228602300869
+      Materializacao_14: -5265079052344225359
+      Materializacao_15: -7574857597209551654
+      Materializacao_16: 5557925590943655193
+      Materializacao_17: -839300305225567367
+      Materializacao_18: -7964594219781174563
+      Materializacao_19: -6746813198084970257
+      Materializacao_2: -9213362944611821137
+      Materializacao_20: 1831316823887989041
+      Materializacao_21: 4614934558882015620
+      Materializacao_22: -3163773665328486309
+      Materializacao_23: -1686064246184880619
+      Materializacao_24: 5726837294357098415
+      Materializacao_25: -4213599262685299760
+      Materializacao_26: 2675005551178119366
+      Materializacao_27: -6628520343209863468
+      Materializacao_28: -1189132191981706278
+      Materializacao_29: 6536283581646226887
+      Materializacao_3: 4619697372501207727
+      Materializacao_30: 8571877395573356370
+      Materializacao_31: 4580790875400956002
+      Materializacao_32: -7789546974261735311
+      Materializacao_4: 6242942942095639797
+      Materializacao_5: -5497415087677794452
+      Materializacao_6: 3492215348571364432
+      Materializacao_7: 8455358008512659916
+      Materializacao_8: -7902604767070231058
+      Materializacao_9: -1101616736208829843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
