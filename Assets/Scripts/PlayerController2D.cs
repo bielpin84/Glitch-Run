@@ -21,6 +21,12 @@ public class PlayerController2D : MonoBehaviour
     [SerializeField] private float groundCheckRadius = 0.2f;
     [SerializeField] private LayerMask groundLayer;
 
+    [Header("Áudio")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip jumpClip;
+
+
+    private Animator anim;
     private Rigidbody2D rb;
     private float horizontalInput;
     private float coyoteCounter;
@@ -36,6 +42,7 @@ public class PlayerController2D : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponentInChildren<Animator>();
         ConfigureJumpPhysics();
     }
 
@@ -48,6 +55,12 @@ public class PlayerController2D : MonoBehaviour
         }
 
         horizontalInput = InputReader.Instance.MoveInput.x;
+
+        // Update animator parameters
+        anim.SetFloat("Speed", Mathf.Abs(horizontalInput));
+        anim.SetBool("IsGrounded", isGrounded);
+        anim.SetFloat("yVelocity", rb.linearVelocity.y);
+
         UpdateJumpTimers();
         UpdateState();
     }
@@ -69,6 +82,16 @@ public class PlayerController2D : MonoBehaviour
             coyoteCounter = 0f;
             jumpBufferCounter = 0f;
             currentState = PlayerState.Respawning;
+
+            anim.SetTrigger("Die");
+            
+        }
+        
+        else
+        {
+        // Força o personagem a voltar para o estado Idle ao renascer
+        
+        anim.Play("PlayerIdle"); 
         }
     }
 
@@ -125,6 +148,10 @@ public class PlayerController2D : MonoBehaviour
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpVelocity);
         jumpBufferCounter = 0f;
         coyoteCounter = 0f;
+        if (audioSource != null && jumpClip != null)
+        {
+            audioSource.PlayOneShot(jumpClip);
+        }
     }
 
     private void CheckGround()

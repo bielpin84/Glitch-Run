@@ -18,11 +18,31 @@ public class PlayerRespawn : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         controller = GetComponent<PlayerController2D>();
-        currentCheckpoint = transform.position;
+
+        // === A NOVA MÁGICA DO SPAWN ===
+        // Procura na fase se existe um objeto chamado "Spawn"
+        GameObject spawnPoint = GameObject.Find("Spawn");
+
+        if (spawnPoint != null)
+        {
+            // Se encontrar, teletransporta o jogador para lá e define como o Checkpoint Zero
+            transform.position = spawnPoint.transform.position;
+            currentCheckpoint = spawnPoint.transform.position;
+            Debug.Log("Jogador posicionado automaticamente no Spawn do mapa!");
+        }
+        else
+        {
+            // Se não encontrar (ex: numa fase de testes), usa a posição em que foi deixado na cena
+            currentCheckpoint = transform.position;
+        }
     }
 
     private void Start()
     {
+        // Se houver um save de checkpoint (porque o jogador tocou numa bandeira),
+        // ele vai substituir a posição do "Spawn" por este save.
+        // Como o nosso portal da mudança de fase apagou os saves, 
+        // isto só vai rodar se ele já estiver a meio do nível!
         Checkpoint savedCheckpoint = Checkpoint.FindById(SaveManager.LastCheckpointId);
 
         if (savedCheckpoint != null)
