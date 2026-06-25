@@ -1,40 +1,62 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MainMenuManager : MonoBehaviour
+public class MenuPrincipalManager : MonoBehaviour
 {
-    [SerializeField] private string[] levelSceneNames = { "Fase1", "Fase2", "Fase3", "Fase4" };
+    [Header("Paineis")]
+    [SerializeField] private GameObject menuPrincipal;
+    [SerializeField] private GameObject painelCreditos;
 
-    public void NewGame()
+    // ==========================
+    // NOVO JOGO
+    // ==========================
+    public void NovoJogo()
     {
-        SaveManager.ResetSave();
-        LoadLevel(1);
+        // Apaga ABSOLUTAMENTE TUDO o que foi salvo no PlayerPrefs (fases, checkpoints, etc.)
+        PlayerPrefs.DeleteAll();
+        PlayerPrefs.Save();
+
+        // Inicia na primeira fase
+        SceneManager.LoadScene("level_01");
     }
 
-    public void ContinueGame()
+    // ==========================
+    // CONTINUAR
+    // ==========================
+    public void Continuar()
     {
-        int level =
-            Mathf.Clamp(
-                SaveManager.LastLevel,
-                1,
-                levelSceneNames.Length);
+        int ultimaFase = PlayerPrefs.GetInt("UltimaFase", 1);
 
-        LoadLevel(level);
-    }
-
-    public void LoadLevel(int levelNumber)
-    {
-        int arrayIndex = Mathf.Clamp(levelNumber, 1, levelSceneNames.Length) - 1;
-        string sceneName = levelSceneNames[arrayIndex];
-
-        if (!string.IsNullOrWhiteSpace(sceneName))
+        switch (ultimaFase)
         {
-            SceneManager.LoadScene(sceneName);
+            case 1:
+                SceneManager.LoadScene("level_01");
+                break;
+
+            case 2:
+                SceneManager.LoadScene("level_02");
+                break;
+
+            case 3:
+                SceneManager.LoadScene("level_03");
+                break;
+
+            case 4:
+                SceneManager.LoadScene("level_04");
+                break;
+
+            default:
+                SceneManager.LoadScene("level_01");
+                break;
         }
     }
 
-    public void QuitGame()
+    // ==========================
+    // SAIR
+    // ==========================
+    public void SairJogo()
     {
+        Debug.Log("Saindo do jogo...");
         Application.Quit();
     }
 }
